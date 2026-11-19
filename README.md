@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://finalpingapp.com"><img src="assets/banner.svg" width="100%" alt="Building FinalPing: arrival alerts for general aviation, from 10 nm out to wheels down."></a>
+  <a href="https://finalpingapp.com"><img src="assets/banner.svg" width="100%" alt="Building FinalPing: arrival alerts for general aviation, at the distances you choose, through wheels down."></a>
 </p>
 
 ### What FinalPing does
 
-- **Pings you as your aircraft comes home:** at 10, 5 and 2 nm out, on landing and on takeoff, every lap of the pattern.
+- **Pings you as your aircraft comes home:** at the distances you choose (10, 5 and 2 nm to start), on landing and on takeoff, every lap of the pattern.
 - **Wherever you already are:** Discord, Slack, Microsoft Teams, Google Chat, email, text, Telegram or your own webhook.
 - **A live map worth watching:** 3D models of each aircraft type, its whole flight path, terrain, and a follow camera.
 - **Your own receiver if you want it:** a Raspberry Pi ground station at your field for wheels-down timing, set up with one command.
