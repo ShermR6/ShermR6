@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="248" viewBox="0 0 860 248" role="img" aria-label="FinalPing information UNIFORM, time 0753 Zulu. Alerts at distances of your choosing, 10, 5 and 2 miles to start. Landing and departing reported every lap of the pattern. Discord, Slack, Teams, Google Chat, email, text, Telegram, webhook. Raspberry Pi ground station, one command. Seven day free trial.">
+<title>FinalPing information UNIFORM, time 0753 Zulu. Alerts at distances of your choosing, 10, 5 and 2 miles to start. Landing and departing reported every lap of the pattern. Discord, Slack, Teams, Google Chat, email, text, Telegram, webhook. Raspberry Pi ground station, one command. Seven day free trial.</title>
+<style>@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}.c{animation:blink 1.1s steps(1) infinite}@media (prefers-reduced-motion:reduce){.c{animation:none}}</style>
+<rect x="1" y="1" width="858" height="246" rx="8" fill="#010409" stroke="#30363D"/>
+<g font-family="'Geist Mono', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13.5" fill="#C9D1D9">
+<text x="22" y="32"><tspan fill="#FAFAFA" font-weight="600">FINALPING INFORMATION UNIFORM</tspan>, <tspan fill="#8B949E">TIME</tspan> 0753 ZULU.</text>
+<text x="22" y="58"><tspan fill="#8B949E">WIND</tspan> FAVORABLE. <tspan fill="#8B949E">VISIBILITY</tspan> UNLIMITED, <tspan fill="#38BDF8">LIVE MAP 3D</tspan>.</text>
+<text x="22" y="84"><tspan fill="#8B949E">ALERTS</tspan> AT DISTANCES OF YOUR CHOOSING, ONE ZERO, FIVE AND TWO MILES TO START.</text>
+<text x="22" y="110"><tspan fill="#8B949E">LANDING AND DEPARTING</tspan> REPORTED EVERY LAP OF THE PATTERN.</text>
+<text x="22" y="136"><tspan fill="#8B949E">FREQUENCIES</tspan> DISCORD, SLACK, TEAMS, GOOGLE CHAT, EMAIL, TEXT, TELEGRAM, WEBHOOK.</text>
+<text x="22" y="162"><tspan fill="#8B949E">GROUND STATION</tspan> AVAILABLE, RASPBERRY PI, ONE COMMAND.</text>
+<text x="22" y="188"><tspan fill="#8B949E">NOTAMS</tspan>: SEVEN DAY FREE TRIAL IN EFFECT.</text>
+<text x="22" y="214">ADVISE ON INITIAL CONTACT YOU HAVE <tspan fill="#FAFAFA" font-weight="600">INFORMATION UNIFORM</tspan> · finalpingapp.com</text>
+</g>
+<rect class="c" x="617.3" y="202" width="8" height="15" fill="#38BDF8"/>
+</svg>
